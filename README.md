@@ -69,3 +69,7 @@ tldr: You should use `<-` where possible.
 
 * [RDocumentation - assignOps](https://www.rdocumentation.org/packages/base/versions/3.4.3/topics/assignOps)
 * [Stack Overflow - Assignment operators in R: '=' and '<-'](https://stackoverflow.com/a/1742550/7292803)
+
+### Links
+
+* [Jupyter and conda for R](https://www.anaconda.com/developer-blog/jupyter-and-conda-r/)
