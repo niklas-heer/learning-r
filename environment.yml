@@ -1,0 +1,4 @@
+dependencies:
+  - r
+  - r-essentials
+  - r-irkernel

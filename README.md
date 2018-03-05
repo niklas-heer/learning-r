@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/niklas-heer/learning-r/master)
+
 # Learning R
 
 Contains snippets, code and general lessons I learned while studying R.
