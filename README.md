@@ -4,6 +4,8 @@
 
 Contains snippets, code and general lessons I learned while studying R.
 
+I'm learning R by following this [a course on Udemy](https://www.udemy.com/r-programming/).
+
 ## Installation
 
 ### R itself
@@ -46,16 +48,6 @@ bash Anaconda3-5.1.0-Linux-x86_64.sh
 # Install R packages:
 conda install -c r r-essentials r-irkernel
 ```
-
-## First steps
-
-I'm learning R by following this [a course on Udemy](https://www.udemy.com/r-programming/).
-
-I'm also using R Studio.
-
-You can execute a line in R Studio with `Ctrl` + `Enter`. But it will only execute the ones you highlighted.
-
--> I documented what I learned during the course in the `learning` folder.
 
 ## Working with Jupyter notebooks
 
