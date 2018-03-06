@@ -55,6 +55,8 @@ You can start exploring them via this command: `jupyter notebook`
 
 ## Packages
 
+Most likely you will download packages from [CRAN](https://cran.r-project.org/).
+
 > Packages are collections of R functions, data, and compiled code in a well-defined format. The directory where packages are stored is called the library.
 (Source: http://www.statmethos.net)
 
