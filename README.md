@@ -53,6 +53,14 @@ conda install -c r r-essentials r-irkernel
 
 You can start exploring them via this command: `jupyter notebook`
 
+## Packages
+
+> Packages are collections of R functions, data, and compiled code in a well-defined format. The directory where packages are stored is called the library.
+(Source: http://www.statmethos.net)
+
+* Installing: `install.packages("ggplot2")`
+* Activate: `library(ggplot2)`
+
 ## Further reading
 
 ### `<-` vs `=`
