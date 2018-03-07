@@ -53,6 +53,8 @@ conda install -c r r-essentials r-irkernel
 
 You can start exploring them via this command: `jupyter notebook`
 
+Some tricks: https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+
 ## Packages
 
 Most likely you will download packages from [CRAN](https://cran.r-project.org/).
